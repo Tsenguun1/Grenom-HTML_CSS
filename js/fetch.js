@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
         fetchAndRenderBooksALL();
     } else {
         fetchAndRenderBooks();
+        
     }
 });
 
